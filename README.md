@@ -1,0 +1,2 @@
+# trader
+trading is simple 
